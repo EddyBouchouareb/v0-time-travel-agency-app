@@ -114,6 +114,13 @@ export function DestinationsSection() {
                     <ArrowRight size={14} className="transition-transform duration-300 group-hover/btn:translate-x-0.5" />
                   </a>
                 </div>
+                <a
+                  href="#reservation"
+                  className="mt-4 flex w-full items-center justify-center gap-2 rounded-md border border-gold/40 bg-gold/10 px-4 py-2.5 text-sm font-medium text-gold transition-all duration-300 hover:bg-gold/20 hover:border-gold/60"
+                >
+                  {"Réserver"}
+                  <ArrowRight size={14} />
+                </a>
               </div>
             </motion.div>
           ))}
