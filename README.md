@@ -1,7 +1,3 @@
-Voici un **README simple, clair et efficace**, prêt à copier-coller dans ton projet :
-
----
-
 # 🌌 TimeTravel Agency
 
 Application web immersive d’agence de voyage temporel de luxe.
@@ -106,5 +102,4 @@ Projet pédagogique — Usage académique uniquement.
 * VAUCLARE Clément
 * DURBEC Luca
 * BOUCHOUAREB Eddy
-
-Si tu veux, je peux aussi te faire une **version encore plus courte (ultra minimaliste)** ou une version **un peu plus professionnelle pour impressionner le jury**.
+* ABIDA Otman
